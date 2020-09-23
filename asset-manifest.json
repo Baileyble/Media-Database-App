@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Media-Database-App/static/css/main.f6d2fe29.chunk.css",
-    "main.js": "/Media-Database-App/static/js/main.027466ee.chunk.js",
-    "main.js.map": "/Media-Database-App/static/js/main.027466ee.chunk.js.map",
+    "main.js": "/Media-Database-App/static/js/main.40e98369.chunk.js",
+    "main.js.map": "/Media-Database-App/static/js/main.40e98369.chunk.js.map",
     "runtime-main.js": "/Media-Database-App/static/js/runtime-main.5fb5f351.js",
     "runtime-main.js.map": "/Media-Database-App/static/js/runtime-main.5fb5f351.js.map",
     "static/js/2.525e4314.chunk.js": "/Media-Database-App/static/js/2.525e4314.chunk.js",
     "static/js/2.525e4314.chunk.js.map": "/Media-Database-App/static/js/2.525e4314.chunk.js.map",
     "index.html": "/Media-Database-App/index.html",
-    "precache-manifest.8125ecb3b60b1d1961a888331ed4dab4.js": "/Media-Database-App/precache-manifest.8125ecb3b60b1d1961a888331ed4dab4.js",
+    "precache-manifest.7cdd069967586bcdbe60b11a709f7c5d.js": "/Media-Database-App/precache-manifest.7cdd069967586bcdbe60b11a709f7c5d.js",
     "service-worker.js": "/Media-Database-App/service-worker.js",
     "static/css/main.f6d2fe29.chunk.css.map": "/Media-Database-App/static/css/main.f6d2fe29.chunk.css.map",
     "static/js/2.525e4314.chunk.js.LICENSE.txt": "/Media-Database-App/static/js/2.525e4314.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5fb5f351.js",
     "static/js/2.525e4314.chunk.js",
     "static/css/main.f6d2fe29.chunk.css",
-    "static/js/main.027466ee.chunk.js"
+    "static/js/main.40e98369.chunk.js"
   ]
 }
