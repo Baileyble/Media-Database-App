@@ -8,7 +8,7 @@ const Movie = (props) => {
 
     return (
         <>
-            <div className="bg-gray-900 sm:h-screen">
+            <div className="bg-gray-900 sm:h-full">
                 <div className="container mx-auto px-4 py-10 xl:px-0">
                     <Link to={"/"} onClick={props.resetSearch}><h1
                         className="pb-2 text-xl sm:text-3xl text-white uppercase font-bold font-sans mb-2">Bailey's Media
